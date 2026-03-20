@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developer in progress 🚀 | Web Dev • Cybersecurity • AI
+Developer in progress 🚀 | Web Dev • Cybersecurity • AI</br>
 Turning ideas into real-world projects while learning every day.
 
 
