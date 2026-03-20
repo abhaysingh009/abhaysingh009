@@ -1,7 +1,7 @@
 # 💫 About Me:
 Developer in progress 🚀 | Web Dev • Cybersecurity • AI</br>
 Turning ideas into real-world projects while learning every day.
-</br></br>
+<!-- </br></br> -->
 <!-- Snake Game Repo View -->
 
 <div align="center">
