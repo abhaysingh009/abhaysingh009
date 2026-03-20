@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a Computer Science student with a strong interest in software development and problem solving.<br><br>Currently pursuing B.Tech in Computer Science and Engineering, I focus on building a solid foundation in data structures, object-oriented programming, and full-stack web development. I enjoy working on real-world projects and continuously improving my problem-solving abilities.<br><br>I have experience working with languages like C, C++, Java, and Python, along with web technologies such as HTML, CSS, and JavaScript. I am also familiar with databases like MySQL and MongoDB.<br><br>My approach to learning is structured and concept-driven — I focus on understanding how systems work internally rather than just using them.<br><br>I have solved 600+ problems across platforms like LeetCode, GeeksforGeeks, and Codeforces, which has strengthened my analytical thinking and coding skills.<br><br>I am currently exploring advanced development concepts and aiming to build scalable and efficient applications.
+Developer in progress 🚀 | Web Dev • Cybersecurity • AI
+Turning ideas into real-world projects while learning every day.
 
 
 ## 🌐 Socials:
