@@ -25,6 +25,15 @@ Turning ideas into real-world projects while learning every day.
   <br/>
   <img src="https://github-readme-stats-rho-five-82.vercel.app/api/top-langs/?username=abhaysingh009&theme=radical&layout=compact" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats-rho-five-82.vercel.app/api?username=abhaysingh009&theme=radical" width="48%" />
+  <img src="https://github-readme-stats-rho-five-82.vercel.app/api/top-langs/?username=abhaysingh009&theme=radical&layout=compact" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abhaysingh009&theme=radical" />
+</p>
 <!-- profile view counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhaysingh009&label=Profile%20views&color=0e75b6&style=flat" />
