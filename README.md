@@ -53,7 +53,7 @@
 
 <br>
 
-[![View Project](https://img.shields.io/badge/View%20Project-00cc00?style=for-the-badge&logo=github&logoColor=black)](YOUR_LINK)
+[![View Project](https://img.shields.io/badge/View%20Project-00cc00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/abhaysingh009/Url-Shortener)
 
 </td>
 
@@ -66,7 +66,7 @@
 🎓 Real-world project  
 
 <br><br><br>
-[![View Project](https://img.shields.io/badge/View%20Project-00cc00?style=for-the-badge&logo=github&logoColor=black)](YOUR_LINK)
+[![View Project](https://img.shields.io/badge/View%20Project-00cc00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/abhaysingh009/FloraScan)
 
 </td>
 
