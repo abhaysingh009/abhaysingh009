@@ -49,7 +49,7 @@
 
 ⚡ Custom short links with unique aliases  
 📊 Analytics dashboard & expiry system  
-🛠️ Tech: Next.js, Prisma, PostgreSQL  
+🛠️ Tech: HTML,CSS3,Next.js, Prisma, PostgreSQL  
 
 <br>
 
@@ -63,7 +63,7 @@
 
 📷 Scan plants using camera input  
 🧠 AI-based plant & health detection  
-🎓 Real-world project  
+🛠️ Tech: HTML5, CSS3, JS, Api Integretion
 
 <br><br><br>
 [![View Project](https://img.shields.io/badge/View%20Project-00cc00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/abhaysingh009/FloraScan)
