@@ -12,8 +12,8 @@
 
 -  Strengthening Advanced concepts in **Data Structures & Algorithms**, system design, and backend development  
 - Focused on **competitive programming** and real-world development  
-- Solved **500+ problems** across LeetCode, Codeforces, GeeksforGeeks, CodeChef, and AtCoder  
-- Participated in **50+ coding contests**  
+- Solved **900+ problems** across LeetCode, Codeforces, GeeksforGeeks, CodeChef, and AtCoder  
+- Participated in **100+ coding contests**  
 - Strong interest in **competitive programming, AI/ML, and cybersecurity**  
 - Core areas: **DSA, C++, Python (Advanced), Frontend Development**  
 - Continuously learning, exploring, and improving
