@@ -26,6 +26,33 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Remove green progress bar
+        run: |
+          python3 - <<'PY'
+          import re
+          from pathlib import Path
+
+          for file in [
+              "dist/github-contribution-grid-snake.svg",
+              "dist/github-contribution-grid-snake-dark.svg"
+          ]:
+              path = Path(file)
+
+              if not path.exists():
+                  continue
+
+              text = path.read_text()
+
+              # Remove all <rect> elements belonging to the progress bar
+              text = re.sub(
+                  r'<rect class="u [^"]*"[^>]*/>',
+                  '',
+                  text
+              )
+
+              path.write_text(text)
+          PY
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
