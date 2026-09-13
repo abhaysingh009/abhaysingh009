@@ -43,14 +43,16 @@ jobs:
 
               text = path.read_text()
 
-              # Remove all <rect> elements belonging to the progress bar
+              # Remove all bottom progress-bar rectangles
               text = re.sub(
-                  r'<rect class="u [^"]*"[^>]*/>',
+                  r'<rect[^>]*class="u[^"]*"[^>]*/>',
                   '',
                   text
               )
 
               path.write_text(text)
+
+              print(f"Processed: {file}")
           PY
 
       - name: Push to output branch
