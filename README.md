@@ -112,7 +112,7 @@
   
   <img src="https://github-readme-stats-ee3z.vercel.app/api/top-langs/?username=abhaysingh009&layout=compact&langs_count=6&hide_border=false&card_width=600&title_color=00cc00&text_color=00cc00&bg_color=000000"/>
   
- <img src="https://streak-stats.demolab.com?user=abhaysingh009&background=000000&ring=00cc00&fire=00cc00&currStreakNum=00cc00&currStreakLabel=00cc00&sideNums=00cc00&sideLabels=00cc00&dates=00cc00&stroke=00cc00" width="600"/>
+<img src="https://streak-stats.demolab.com?user=abhaysingh009&background=000000&ring=00cc00&fire=00cc00&currStreakNum=00cc00&currStreakLabel=00cc00&sideNums=00cc00&sideLabels=00cc00&dates=00cc00&stroke=00cc00&v=2" width="600"/>
 </div>
 
 
