@@ -24,6 +24,42 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Crop bottom of Snake SVG
+        run: |
+          python3 - <<'PY'
+          import re
+          from pathlib import Path
+
+          for file in [
+              "dist/github-contribution-grid-snake.svg",
+              "dist/github-contribution-grid-snake-dark.svg"
+          ]:
+              path = Path(file)
+
+              if not path.exists():
+                  continue
+
+              text = path.read_text()
+
+              # Reduce the SVG viewport height to remove the
+              # extra bottom area containing the green bar.
+              text = re.sub(
+                  r'viewBox="0 0 ([0-9.]+) ([0-9.]+)"',
+                  lambda m: f'viewBox="0 0 {m.group(1)} 200"',
+                  text,
+                  count=1
+              )
+
+              text = re.sub(
+                  r'height="([0-9.]+)"',
+                  'height="200"',
+                  text,
+                  count=1
+              )
+
+              path.write_text(text)
+          PY
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
