@@ -78,13 +78,13 @@
 
 ### UNMASK-DarkWeb-Threat-Actor-Intelligence   
 
-📈 VS=********************  
-💡 H********************  
-⚡ Smooth UI animations  
+🕵️‍♂️ AI-powered de-anonymization linking dark web aliases via stylometry & Web3 tracking
+🕸️ Interactive Neo4j threat graph with automated identity correlation
+🛠️ Tech: Next.js, FastAPI, Neo4j, React Flow, Python, Scikit-Learn
 
 <br>
 
-[![View Project](https://img.shields.io/badge/View%20Project-00cc00?style=for-the-badge&logo=github&logoColor=black)](YOUR_LINK)
+[![View Project](https://img.shields.io/badge/View%20Project-00cc00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/abhaysingh009/UNMASK-DarkWeb-Threat-Actor-Intelligence)
 
 </td>
 
